@@ -11,13 +11,14 @@ Creating a “fork” is producing a personal copy of someone else’s project. 
 :::
 If you forked someone's project, you will be able to push your code (this is called _making pull request_, and we will be talking about it soon) so the owner of the original project can check it and if they find it useful, use it.
 
-**During your Ironhack journey, you have to fork each lab to be able to submit it. This way, your TAs, and instructors will be able to check your work and give you feedback.**
+**During your ProGrad journey, you have to fork each lab to be able to submit it. This way, your mentors, and instructors will be able to check your work and give you feedback.**
 
 ### How to fork?
 
-<small>All the examples will be related to your Ironhack journey, and they will point to the [`ironhack-labs`](https://github.com/ironhack-labs) GitHub organization. </small>
+<small>All the examples will be related to your ProGrad journey, and they will point to the [`FACEPrep-ProGrad`](https://github.com/FACEPrep-ProGrad
+) GitHub organization. </small>
 
-Navigate to the repository you want to fork. Let's take an example of the prework [HTML exercise](https://github.com/ironhack-labs/lab-html-exercise).
+Navigate to the repository you want to fork. Let's take an example of the prework [HTML exercise](https://github.com/FACEPrep-ProGrad/project-builder-html-css-npm).
 
 ![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_926952599ca89301b826696c209fd338.png)
 
