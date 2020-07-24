@@ -1,6 +1,6 @@
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
-# ProGrad Lab | General guidelines for labs/Project Builders
+# ProGrad Labs | General guidelines for labs/Project Builders
 
 In this document, you will find all the steps you should follow when working on the labs (in the prework and during the bootcamp).
 
