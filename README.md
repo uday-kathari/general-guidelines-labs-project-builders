@@ -22,15 +22,15 @@ If you forked someone's project, you will be able to push your code (this is cal
 
 Navigate to the repository you want to fork. Let's take an example of the prework [HTML exercise](https://github.com/FACEPrep-ProGrad/project-builder-html-css-npm).
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_926952599ca89301b826696c209fd338.png)
+![](https://i1.faceprep.in/ProGrad/1.png)
 
 After clicking on the fork button, you will be presented with the loading screen that will most likely look like this:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_10963380e2cfbaab068f92027378ebed.png)
+![](https://i1.faceprep.in/ProGrad/2.png)
 
 After the forking is done successfully, you will be redirected to the **copied repository on your GitHub account**.
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_ab52ba11af58807f2b0ce6bc33eddcd4.png)
+![](https://i1.faceprep.in/ProGrad/3.png)
 
 We are done here with the forking process.
 
@@ -42,7 +42,7 @@ Now, on your GitHub account, you have access to the copied repository. This will
 
 1. Click on the green ‘Clone or download’ button and copy the link by selecting and copying or by using the clipboard button.
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_d60e750aafbfe7838bbdbf28619561c4.png)
+![](https://i1.faceprep.in/ProGrad/4.png)
 
 2. Open your terminal and navigate to the location where you want to store the local version of your repository.
 3. When you navigated to the correct folder in your terminal run the following command:
@@ -53,11 +53,11 @@ $ git clone <paste url from the clipboard>
 
 Check the image below if you have any doubts:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_84541b74195c3a6bb9cde5ff753e3118.png)
+![](https://i1.faceprep.in/ProGrad/5.png)
 
 4. Once the cloning process is done, you see the following information in your terminal. And you can check that repository was successfully cloned from GitHub to your local machine by running `ls` command in your terminal:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_ab79b2e53c91a60727bcb4722a251df3.png)
+![](https://i1.faceprep.in/ProGrad/6.png)
 
 The cloning process is finished with this step. Now you can use the code to make changes before we proceed to the next step, which is pushing the changes to the forked repository on your GitHub.
 
@@ -77,7 +77,7 @@ $ code .
 
 If in doubt, check the following image:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_abb34eb9484260ac24726a7c6ff29b88.png)
+![](https://i1.faceprep.in/ProGrad/7.png)
 
 Now we are ready to start working/making changes. Quickly go to the terminal and, while in the copied repository, run the following command:
 
@@ -85,7 +85,7 @@ Now we are ready to start working/making changes. Quickly go to the terminal and
 $ git status
 ```
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_1b15541cf9a6df25582e47584ad84cef.png)
+![](https://i1.faceprep.in/ProGrad/8.png)
 
 This shows us that there were no changes made locally, yet.
 
@@ -97,7 +97,7 @@ After you made changes to your project, you can check which files you changed by
 $ git status
 ```
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_5813099ab6bff940f70b5449ccb15c19.png)
+![](https://i1.faceprep.in/ProGrad/9.png)
 
 ### How to add changes?
 
@@ -109,7 +109,7 @@ In case you want to add just one file and you are not ready to add the others, y
 $ git add <name of the file>
 ```
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_af98ae73d69b521b9e4caaa55341e10a.png)
+![](https://i1.faceprep.in/ProGrad/10.png)
 
 However, most likely, you would like to add all the changes so that you will use the following command more often:
 
@@ -119,7 +119,7 @@ $ git add .
 
 <small> :+1: The dot represents all files in the current repository.</small>
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_140e62e6beddcf8a2af5c1f16af0868c.png)
+![](https://i1.faceprep.in/ProGrad/11.png)
 
 ### How to commit changes?
 
@@ -129,7 +129,7 @@ After all changed files are added, you should commit your files and add a commit
 $ git commit -m “<your message>”
 ```
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_0ef0ad72a3dbf04e13f526316d45a606.png)
+![](https://i1.faceprep.in/ProGrad/12.png)
 
 ### How to push changes?
 
@@ -139,7 +139,7 @@ After committing your changes, you can push the commits from your local machine 
 $ git push origin master
 ```
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_85546a18406a582e059fe7dd08d388f8.png)
+![](https://i1.faceprep.in/ProGrad/13.png)
 
 Perfect! The changes we made are now available in the remote repository on our GitHub profile.
 
@@ -151,17 +151,17 @@ After pushing your changes from your local master to the remote master, your com
 
 When your commit is successfully pushed to GitHub, you can create a pull request by clicking on the "New pull request" button.
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_4da38401d30beacf8a0f1564ff0b422c.png)
+![](https://i1.faceprep.in/ProGrad/14.png)
 
 After clicking on that button, you will be forwarded to the following page:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_63b74775dbb75f3b0ec07aed6ec6b082.png)
+![](https://i1.faceprep.in/ProGrad/15.png)
 
 As you can see in the image above, when you initialize the process for creating the pull request, you will be redirected to the original repository (where you were at the very beginning when you started the process of forking).
 
 The final step is just to fill out the pull request title and the body.
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_7fd8a357bf140a3d3373e8d35b80aa59.png)
+![](https://i1.faceprep.in/ProGrad/16.png)
 
 By pressing the green “Create pull request” button, you will create the pull request to the original lab repository.
 
@@ -169,7 +169,7 @@ By pressing the green “Create pull request” button, you will create the pull
 
 If you would click on the "Pull requests", you will see your own pull request:
 
-![](https://s3-eu-west-1.amazonaws.com/ih-materials/uploads/upload_96c6e545d2732b3aff9141191feea59a.png)
+![](https://i1.faceprep.in/ProGrad/17.png)
 
 <br><br>
 
